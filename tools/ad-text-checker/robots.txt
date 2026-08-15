@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qq898083968-debug.github.io/true-margin-tools/sitemap.xml
